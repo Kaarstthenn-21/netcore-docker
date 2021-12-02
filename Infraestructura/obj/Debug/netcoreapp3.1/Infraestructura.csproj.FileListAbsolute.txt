@@ -1,0 +1,16 @@
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\bin\Debug\netcoreapp3.1\Infraestructura.deps.json
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\bin\Debug\netcoreapp3.1\Infraestructura.runtimeconfig.json
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\bin\Debug\netcoreapp3.1\Infraestructura.runtimeconfig.dev.json
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\bin\Debug\netcoreapp3.1\Infraestructura.dll
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\bin\Debug\netcoreapp3.1\Infraestructura.pdb
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.csproj.AssemblyReference.cache
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.AssemblyInfoInputs.cache
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.AssemblyInfo.cs
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.csproj.CopyComplete
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.dll
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.pdb
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Infraestructura\obj\Debug\netcoreapp3.1\Infraestructura.genruntimeconfig.cache

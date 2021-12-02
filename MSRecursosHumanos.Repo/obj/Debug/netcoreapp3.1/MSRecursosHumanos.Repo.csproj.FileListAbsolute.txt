@@ -1,0 +1,15 @@
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\bin\Debug\netcoreapp3.1\MSRecursosHumanos.Repo.deps.json
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\bin\Debug\netcoreapp3.1\MSRecursosHumanos.Repo.dll
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\bin\Debug\netcoreapp3.1\MSRecursosHumanos.Repo.pdb
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\bin\Debug\netcoreapp3.1\Infraestructura.dll
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\bin\Debug\netcoreapp3.1\Infraestructura.pdb
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\obj\Debug\netcoreapp3.1\MSRecursosHumanos.Repo.csproj.AssemblyReference.cache
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\obj\Debug\netcoreapp3.1\MSRecursosHumanos.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\obj\Debug\netcoreapp3.1\MSRecursosHumanos.Repo.AssemblyInfoInputs.cache
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\obj\Debug\netcoreapp3.1\MSRecursosHumanos.Repo.AssemblyInfo.cs
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\obj\Debug\netcoreapp3.1\MSRecursosHumanos.Repo.csproj.CoreCompileInputs.cache
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\obj\Debug\netcoreapp3.1\MSRecursosHumanos.Repo.csproj.CopyComplete
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\obj\Debug\netcoreapp3.1\MSRecursosHumanos.Repo.dll
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\MSRecursosHumanos.Repo\obj\Debug\netcoreapp3.1\MSRecursosHumanos.Repo.pdb

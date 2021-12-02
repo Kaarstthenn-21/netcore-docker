@@ -1,0 +1,10 @@
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Entidades\obj\Debug\netcoreapp3.1\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\kaars\OneDrive\Documentos\TECSUP\5TO Semestre\DAWA\Semana 15\WebApplication3_JWT\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
